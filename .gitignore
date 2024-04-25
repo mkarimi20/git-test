@@ -1,1 +1,6 @@
 creds
+.terraform
+.swp
+.swap
+./certs/*
+*.terraform
